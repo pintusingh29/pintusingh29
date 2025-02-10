@@ -7,7 +7,13 @@ Aspiring Data Analyst | MSc Data Science @ University of East London
 🏢 Former Analyst at eClerx Services Limited, specializing in data-driven solutions
 🌱 Building projects in data analytics, Python, and machine learning
 🌍 Based in London, UK
+
 🔧 Skills & Tools
 Languages: Python, SQL, R
 Data Tools: Pandas, NumPy, Matplotlib, Excel, Tableau
 Soft Skills: Problem-Solving, Team Collaboration, Decision-Making
+
+⚡ Fun Facts
+🏐 I love playing volleyball
+✈️ Traveling and exploring new places is my passion
+🎥 Enjoy watching movies and shows
